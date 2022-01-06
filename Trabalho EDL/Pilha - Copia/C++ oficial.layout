@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="MyStackTest.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="9" Column="16"/>
+		</File>
+		<File Name="MyQueue.cpp" Top="Yes" Tabpos="2" TopLine="13">
+			<Cursor Line="21" Column="19"/>
+		</File>
+		<File Name="MyQueue.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="19" Column="6"/>
+		</File>
+	</Files>
+</Layout>
