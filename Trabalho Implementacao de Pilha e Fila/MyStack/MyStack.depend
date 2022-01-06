@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640697906 source:c:\users\breno morais\desktop\c++\trabalho implementacao de pilha e fila\mystack\mystack.cpp
+	<iostream>
+
+1640700095 source:c:\users\breno morais\desktop\c++\trabalho implementacao de pilha e fila\mystack\main.cpp
+	<iostream>
+	"ponto.h"
+
+1640699935 c:\users\breno morais\desktop\c++\trabalho implementacao de pilha e fila\mystack\ponto.h
+
